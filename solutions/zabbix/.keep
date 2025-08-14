@@ -1,0 +1,5 @@
+# Purpose: Zabbix-specific documentation, configurations, and integration notes.
+# Suggested contents:
+# - Host templates, item/trigger prototypes, and dashboard exports
+# - Agent/proxy/server configuration and tuning
+# - Troubleshooting and operational procedures for Zabbix

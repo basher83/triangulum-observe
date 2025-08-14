@@ -1,0 +1,12 @@
+# Purpose: Netdata-specific documentation, configurations, and integration notes.
+# Suggested contents:
+# - Netdata deployment and configuration guides
+# - Exporters/collectors settings and dashboards
+# - Tuning, troubleshooting, and runbooks specific to Netdata
+
+# Netdata 7-Day Summary Report
+# Location: reports/netdata-insights-7d-summary-<YYYY-MM-DD>-all-nodes.pdf
+# Example:
+#   ./scripts/generate-netdata-report.sh \
+#     --period 7d \
+#     --output reports/netdata-insights-7d-summary-$(date +%F)-all-nodes.pdf

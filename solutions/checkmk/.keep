@@ -1,0 +1,5 @@
+# Purpose: Checkmk-specific documentation, configurations, and integration notes.
+# Suggested contents:
+# - Site configuration, rulesets, and plugin checks
+# - Agent deployment instructions and bakery configs
+# - Dashboards, views, and alerting setup for Checkmk
