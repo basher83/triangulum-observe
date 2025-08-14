@@ -1,9 +1,9 @@
 # 🚀 triangulum-observe
 
-![GitHub last commit](https://img.shields.io/github/last-commit/basher83/docs?path=mission-control%2Fboilerplate%2Freadme-templates%2Fproject-readme.md&display_timestamp=committer)
-![License](https://img.shields.io/github/license/basher83/[repo-name])
-![Issues](https://img.shields.io/github/issues/basher83/[repo-name])
-![Stars](https://img.shields.io/github/stars/basher83/[repo-name])
+![GitHub last commit](https://img.shields.io/github/last-commit/basher83/triangulum-observe?path=README.md&display_timestamp=committer)
+![License](https://img.shields.io/github/license/basher83/triangulum-observe)
+![Issues](https://img.shields.io/github/issues/basher83/triangulum-observe)
+![Stars](https://img.shields.io/github/stars/basher83/triangulum-observe)
 ![Mission Status](https://img.shields.io/badge/Mission-Active-brightgreen)
 
 > Brief project description that captures the essence of your space mission. What problem does this
