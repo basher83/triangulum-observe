@@ -1,0 +1,5 @@
+# Purpose: Netdata-specific documentation, configurations, and integration notes.
+# Suggested contents:
+# - Netdata deployment and configuration guides
+# - Exporters/collectors settings and dashboards
+# - Tuning, troubleshooting, and runbooks specific to Netdata
