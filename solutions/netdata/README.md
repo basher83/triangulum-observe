@@ -26,7 +26,7 @@ This directory is organized for:
 
 - [General Documentation](../../docs/) - Repository-wide guides
 - [Monitoring Reports](../../reports/) - Generated Netdata reports
-- [Other Solutions](../) - Zabbix, CheckMK, and other monitoring tools
+- [Other Solutions](../) - [Zabbix](../zabbix/), [CheckMK](../checkmk/), and other monitoring tools
 
 ## Contributing
 

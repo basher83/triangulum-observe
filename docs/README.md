@@ -4,7 +4,7 @@ This document outlines the organization and naming conventions for the `triangul
 
 ## Repository Structure
 
-```
+```text
 triangulum-observe/
 ├── docs/                    # General documentation and guides
 ├── reports/                 # Monitoring reports and exports
